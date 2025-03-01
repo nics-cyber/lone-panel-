@@ -20,7 +20,7 @@ This repository contains a combined script to set up **Lonely Panel** (a modifie
 
 ### **Lonely Wings Features**
 1. **Custom Branding**:
-   - Renamed from "Pterodactyl Wings" to "Lonely Wings".
+   - Renamed from "loneX Wings" to "Lonely Wings".
 2. **Dockerized Setup**:
    - Runs in a Docker container with Docker-in-Docker (DinD) support.
    - No need for Docker to be installed on the host system.
