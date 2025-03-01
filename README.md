@@ -8,7 +8,7 @@ This repository contains a combined script to set up **Lonely Panel** (a modifie
 
 ### **Lonely Panel Features**
 1. **Custom Branding**:
-   - Renamed from "Pterodactyl" to "Lonely".
+   - Renamed from "LONEX" to "Lonely".
    - Panel color changed to black for a unique look.
 2. **Dockerized Setup**:
    - Runs in Docker containers for easy deployment and isolation.
